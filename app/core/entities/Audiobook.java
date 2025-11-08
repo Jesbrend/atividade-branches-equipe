@@ -1,6 +1,6 @@
 package app.core.entities;
 
-import app.core.Genero;
+import app.core.enums.Genero;
 
 public class Audiobook extends Midia {
     public Audiobook(String titulo, String artista, int duracaoEmSegundos, Genero genero) {

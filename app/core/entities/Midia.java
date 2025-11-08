@@ -1,6 +1,6 @@
 package app.core.entities;
 
-import app.core.Genero;
+import app.core.enums.Genero;
 
 public abstract class Midia {
     private String titulo;
