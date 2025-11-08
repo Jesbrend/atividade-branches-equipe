@@ -1,6 +1,6 @@
-package entities;
+package app.core.entities;
 
-import core.Genero;
+import app.core.Genero;
 
 public abstract class Midia {
     private String titulo;
